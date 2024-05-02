@@ -34,3 +34,8 @@ build/
 
 # Spring Boot application.properties
 src/main/resources/application.properties
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
